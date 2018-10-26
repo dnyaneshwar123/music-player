@@ -20,7 +20,7 @@ Credits for the images used in app and for promotional purposes (used in the mus
 
 ~ http://www.clipartbest.com/
 ~ https://unsplash.com/
-~ https://www.webresourcesfree.com
+~ https://templatefor.net
 ~ App Icon Designed by Freepik.com 
 ~ (Images)Licensed under Creative Commons: By Attribution 3.0 License
   http://creativecommons.org/licenses/by/3.0/ (incompetech.com)
